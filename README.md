@@ -46,14 +46,6 @@ make
 make run
 ```
 
-## Example
-
-```text
-Enter Message: HELLO
-Enter 8-bit XOR Key: 10101010
-Enter Noise Probability: 0.02
-```
-
 Program Output:
 
 - Original Binary
