@@ -30,7 +30,6 @@ hamming-xor-communication/
 │   └── noise.h
 │
 ├── README.md
-├── Makefile
 └── .gitignore
 ```
 
